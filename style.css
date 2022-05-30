@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+}
+header{
+    background-color: blue;
+    text-align: center;
+    padding: 30px;
+}
+header h1 {
+    font-size: 30px;
+}
+section p {
+    color: brown;
+}
+article h2 p{
+    color: darkorange;
+}
+nav a{
+    float: left;
+    display: block;
+    color: lemonchiffon;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
